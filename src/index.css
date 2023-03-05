@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.layout {
+  margin: 15%;
+}
+
+.layout>.ques {
+  margin-bottom: 2rem;
+  min-height: 30vh;
+  text-align: left;
+}
+
+.layout>.btn-pre {
+  margin-right: 0.4rem;
+}
+
+.layout>.btn-next {
+  margin-left: 0.4rem;
+}
